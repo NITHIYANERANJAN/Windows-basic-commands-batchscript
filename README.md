@@ -1,9 +1,4 @@
 # Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
-
-Developed by : Aaron Rajesh .R
-
-Reg No : 212223100001
 
 # AIM:
 To execute Windows basic commands and batch scripting
